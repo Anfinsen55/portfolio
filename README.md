@@ -1,5 +1,6 @@
 
-About Anfinsen Joseph
+Anfinsen Joseph
+
 Aspiring AI/ML Engineer with a passion for building innovative solutions and a strong track record in academics and extracurricular activities.
 
 Education:
