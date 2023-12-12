@@ -1,6 +1,5 @@
 
-Anfinsen Joseph
-
+About Anfinsen Joseph
 Aspiring AI/ML Engineer with a passion for building innovative solutions and a strong track record in academics and extracurricular activities.
 
 Education:
@@ -16,14 +15,12 @@ Proficient in Python, Django, SQL, Tableau, and familiar with AWS cloud platform
 Eager to learn and master new technologies relevant to AI/ML and software development.
 Projects:
 
-Demonstrated hands-on experience through various projects, including:
-Motion detection system using cameras and computer vision.
-Hand and body pose detection model using deep learning.
-Tamil hate speech detection model using machine learning.
-Weather prediction model using machine learning algorithms.
+Motion detection system using cameras and computer vision: [link to project]
+Hand and body pose detection model using deep learning: [link to project]
+Tamil hate speech detection model using machine learning: https://github.com/Anfinsen55/Tamil_hate_speech_detection
+Sentiment analysis: [[link to project]](https://github.com/Anfinsen55/sentiment-analysis)
 Certifications:
 
-Earned valuable certifications to enhance my skillset:
 AWS Cloud Practitioner
 Fundamentals of Data Analytics by Future Skills
 Microlearning Course in Data Science by Future Skills
@@ -47,4 +44,7 @@ Birthplace: Tirunelveli
 Languages: English, Tamil
 Currently using Bard AI chatbot built in Google Colab.
 Looking to deploy chatbot and explore further in the field of AI/ML.
-I am confident that my skills, experience, and dedication make me a valuable asset to any team. I am eager to learn, grow, and contribute to cutting-edge projects in the field of AI/ML.
+Contact:
+
+Gmail: josephanfinsen1309@gmail.com
+LinkedIn: https://www.linkedin.com/in/josephanfinsen1309/
