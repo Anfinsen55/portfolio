@@ -2,9 +2,7 @@
 **Anfinsen Joseph**
 
 A Aspiring AI/ML Engineer with a passion for building innovative solutions and a strong track record in academics and extracurricular activities.
-<br> hi
-<br> hello
-<br> anfi
+
 Education:
 
 Currently pursuing B.Tech CSE with AI/ML specialization at VIT Bhopal.
